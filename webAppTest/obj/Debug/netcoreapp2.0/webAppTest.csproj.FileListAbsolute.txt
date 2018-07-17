@@ -1,0 +1,11 @@
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\obj\Debug\netcoreapp2.0\webAppTest.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\obj\Debug\netcoreapp2.0\webAppTest.AssemblyInfoInputs.cache
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\obj\Debug\netcoreapp2.0\webAppTest.AssemblyInfo.cs
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\bin\Debug\netcoreapp2.0\webAppTest.deps.json
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\bin\Debug\netcoreapp2.0\webAppTest.runtimeconfig.json
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\bin\Debug\netcoreapp2.0\webAppTest.runtimeconfig.dev.json
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\bin\Debug\netcoreapp2.0\webAppTest.dll
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\obj\Debug\netcoreapp2.0\webAppTest.csprojResolveAssemblyReference.cache
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\bin\Debug\netcoreapp2.0\webAppTest.pdb
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\obj\Debug\netcoreapp2.0\webAppTest.dll
+C:\Users\bernardo.castelo\source\repos\webAppTest\webAppTest\obj\Debug\netcoreapp2.0\webAppTest.pdb
